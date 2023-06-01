@@ -4,3 +4,4 @@ Muslih Resolusi :
 - membuat program pelatihan agar orang yang keterbatasan biaya untuk menjadi seorang programmer terbantu
 - membangun kepercayaan orang - orang yang bergerak di bidang IT
 - membangun relasi dengan orang - orang penting
+- membuat sebuah aplikasi yang berguna untuk semua orang
